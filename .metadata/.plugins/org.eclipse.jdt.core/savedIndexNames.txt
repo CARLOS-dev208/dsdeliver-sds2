@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\caduc\Desktop\workspaces\ms-sds2\.metadata\.plugins\org.eclipse.jdt.core
