@@ -26,20 +26,20 @@ public class OrderDTO implements Serializable{
 	private Double longitude;
 	private Instant moment;
 	private OrdemStatus status;
+	private Double total;
 	private List<ProductDTO> products = new ArrayList<>();
 	
-	public OrderDTO(Long id, String address, Double latitude, Double longitude, Instant moment, OrdemStatus status) {
-		super();
+	public OrderDTO(Long id, String address, Double latitude, Double longitude, Instant moment, OrdemStatus status, Double total) {
 		this.id = id;
 		this.address = address;
 		this.latitude = latitude;
 		this.longitude = longitude;
 		this.moment = moment;
 		this.status = status;
+		this.total = total;
 	}
 	
 	public OrderDTO(Order entity) {
-		super();
 		this.id = entity.getId();
 		this.address = entity.getAddress();
 		this.latitude = entity.getLatitude();
@@ -47,6 +47,7 @@ public class OrderDTO implements Serializable{
 		this.moment = entity.getMoment();
 		this.status = entity.getStatus();
 		this.products = entity.getProducts().stream().map(x -> new ProductDTO(x)).collect(Collectors.toList());
+		this.total = entity.getTotal();
 	}
 	
 	
