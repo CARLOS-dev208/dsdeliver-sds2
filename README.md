@@ -13,12 +13,17 @@ A aplicação consiste em pedidos de pizzas, onde os pedidos são carregado no a
 ![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/CARLOS-dev208/dsdeliver-sds2/blob/main/assets/Screenshot_1.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 2](https://github.com/CARLOS-dev208/dsdeliver-sds2/blob/main/assets/Screenshot_2.png)
+
+![Web 3](https://github.com/CARLOS-dev208/dsdeliver-sds2/blob/main/assets/Screenshot_3.png)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/CARLOS-dev208/dsdeliver-sds2/blob/main/assets/Screenshot_6.png)
+
+## Padrão camadas adotado
+![Modelo Padrão camadas adotado](https://github.com/CARLOS-dev208/dsdeliver-sds2/blob/main/assets/Screenshot_5.png)
 
 # Tecnologias utilizadas
 ## Back end
