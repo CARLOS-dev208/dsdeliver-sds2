@@ -10,7 +10,7 @@ DS Delivery é uma aplicação full stack web e mobile construída durante a 2ª
 A aplicação consiste em pedidos de pizzas, onde os pedidos são carregado no app mobile, para depois ser entregue na casa do cliente, Onde o cliente faz o pedido pela página web passando a quantidade de pizza que deseja e informa a sua localização no mapa presente na página.
 
 ## Layout mobile
-![Mobile 1](https://github.com/CARLOS-dev208/dsdeliver-sds2/blob/main/assets/Screenshot_4.png) ![Mobile 2](https://github.com/CARLOS-dev208/dsdeliver-sds2/blob/main/assets/Screenshot_7.png) ![Mobile 1](https://github.com/CARLOS-dev208/dsdeliver-sds2/blob/main/assets/Screenshot_8.png)
+![Mobile 1](https://github.com/CARLOS-dev208/dsdeliver-sds2/blob/main/assets/Screenshot_4.png) ![Mobile 2](https://github.com/CARLOS-dev208/dsdeliver-sds2/blob/main/assets/listapedidos_9.png) ![Mobile 1](https://github.com/CARLOS-dev208/dsdeliver-sds2/blob/main/assets/Screenshot_8.png)
 
 ## Layout web
 ![Web 1](https://github.com/CARLOS-dev208/dsdeliver-sds2/blob/main/assets/Screenshot_1.png)
