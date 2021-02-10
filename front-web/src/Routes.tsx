@@ -3,7 +3,7 @@ import Home from "./Home";
 import NavBar from "./Navbar";
 import Orders from "./Orders";
 
-function Routes(){
+export default function Routes(){
   return (
    <BrowserRouter>
    <NavBar/>
@@ -19,4 +19,4 @@ function Routes(){
   )
 }
 
-export default Routes;
+ 
