@@ -35,7 +35,7 @@ A aplicação consiste em pedidos de pizzas, onde os pedidos são carregado no a
 - HTML / CSS / JS / TypeScript
 - ReactJS
 - React Native
-- Apex Charts
+- MapBox
 - Expo
 ## Implantação em produção
 - Back end: Heroku
