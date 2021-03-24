@@ -79,4 +79,4 @@ npm start
 
 CARLOS EDUARDO PEREIRA DE SOUSA SILVA
 
-https://www.linkedin.com/in/carlos-eduardo-6818001a7/
+www.linkedin.com/in/carlos-eduardo-pereira-de-sousa-silva
